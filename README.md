@@ -60,9 +60,13 @@ If you are running this framework from your laptop, it is recommended that you r
 After cloning this code to your laptop, go to that directory
 
 $ python3 -m venv my-venv
+
 $ source my-venv/bin/activate
+
 $ pip install -r requirements.txt
+
 $ python main.py
 
 Once completed, you can deactivate the virtual environment:
+
 $ deactivate
